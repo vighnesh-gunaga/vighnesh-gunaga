@@ -86,9 +86,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vighnesh-gunaga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=vighnesh-gunaga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh-gunaga&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh-gunaga&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 
 </div>
 
@@ -98,17 +98,21 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vighnesh-gunaga&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/vighnesh-gunaga">
+
+<img src="https://streak-stats.demolab.com?user=vighnesh-gunaga&theme=tokyonight&hide_border=true" />
+
+</a>
 
 </div>
 
+---
 
-
-## 📈 My GitHub Activity
+## 📈 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnesh-gunaga&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnesh-gunaga&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 

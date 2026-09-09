@@ -102,9 +102,7 @@
 
 </div>
 
-> 🔥 The streak card automatically displays your **current streak** and **longest streak** based on your GitHub activity.
 
----
 
 ## 📈 My GitHub Activity
 

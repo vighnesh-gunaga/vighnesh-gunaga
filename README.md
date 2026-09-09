@@ -2,22 +2,22 @@
 
 # 👋 Hi, I'm Vighnesh Gunaga
 
-### ☕ Java Backend Developer | Spring Boot | DSA
+### ☕ Java Backend Developer
 
 <p>
   <a href="https://github.com/vighnesh-gunaga">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/vighnesh-suresh-gunaga-925727329/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gunagavighnesh6571@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vighnesh-gunaga&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vighnesh-gunaga&style=for-the-badge&label=PROFILE+VIEWS">
 </p>
 
 </div>
@@ -26,45 +26,43 @@
 
 ## 👨‍💻 About Me
 
-🎓 **BE Information Science & Engineering** student at Canara Engineering College
+🎓 BE Information Science & Engineering student at **Canara Engineering College**
 
 ☕ Passionate about **Java Backend Development**
 
-🚀 Building backend applications with **Java, Spring Boot and REST APIs**
+🚀 Building backend applications using **Java, Spring Boot and REST APIs**
 
-🧠 Strengthening my **Data Structures & Algorithms** skills
+🗄️ Working with **MySQL and PostgreSQL**
 
-🔐 Interested in **Spring Security, JWT Authentication and secure APIs**
+🔐 Interested in **Spring Security and JWT Authentication**
 
-🎯 Goal: Become a strong **Java Backend Developer**
+🧠 Practicing **Data Structures & Algorithms**
+
+🎯 Career goal: **Java Backend Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js" />
-</p>
+### 💻 Languages
 
-### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
-</p>
+### ⚙️ Backend
 
-### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+### 🗄️ Database
 
-### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,postman" />
-</p>
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman" />
+
+</div>
 
 ---
 
@@ -74,27 +72,23 @@
 
 ### 🥇 NPTEL — Java Programming
 
-<img src="https://img.shields.io/badge/NPTEL-Java%20Programming-1F4E79?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ELITE%20%2B%20GOLD-FFD700?style=for-the-badge&logo=medal&logoColor=black">
 
-<img src="https://img.shields.io/badge/Score-90%25-FFD700?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Elite%20%2B%20Gold-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SCORE-90%25-1F6FEB?style=for-the-badge">
 
 </div>
 
-**Achievement:** Elite + Gold  
-**Score:** 90%
+**NPTEL Java Programming — Elite + Gold**
+
+**Score: 90%**
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Metrics
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
-  <img src="./profile/signal-field-wide-light.svg" alt="GitHub Statistics" width="700">
-</picture>
+<img src="./metrics/github-metrics.svg" width="100%">
 
 </div>
 
@@ -104,47 +98,50 @@
 
 <div align="center">
 
-<img src="./profile/streak.svg" alt="GitHub Streak" width="495">
+<img src="./metrics/github-streak.svg" width="80%">
 
 </div>
 
-<p align="center">
-  <b>Current Streak</b> • <b>Longest Streak</b> • <b>Total Contributions</b>
-</p>
-
 ---
 
-## 📈 Contribution & Activity
+## 📅 Contribution Calendar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg">
-  <img src="./profile/activity-consistency-wide-light.svg" alt="GitHub Contribution Activity" width="700">
-</picture>
+<img src="./metrics/github-calendar.svg" width="100%">
 
 </div>
 
 ---
 
-## 💻 What I'm Building
+## 💻 Coding Activity
+
+<div align="center">
+
+<img src="./metrics/github-habits.svg" width="100%">
+
+</div>
+
+---
+
+## 🧠 What I'm Working On
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ☕ Java Backend
+### ☕ Java
 
-- Core Java
 - OOP
 - Collections
 - Exception Handling
+- Streams
 - Multithreading
-- Java Streams
+- DSA
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🚀 Spring Boot
 
@@ -152,28 +149,26 @@
 - Spring Data JPA
 - Validation
 - Spring Security
-- JWT Authentication
+- JWT
 - MySQL
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🧠 DSA
+### 🗄️ Database
 
-- Arrays
-- Strings
-- HashMap
-- Linked List
-- Stack & Queue
-- Trees
-- Graphs
+- MySQL
+- PostgreSQL
+- SQL
+- JPA
+- Hibernate
 
 </td>
 
-<td width="50%" valign="top">
+<td>
 
 ### 🔧 Development
 
@@ -190,16 +185,37 @@
 
 ---
 
-## 📌 Current Focus
+## 🚀 Backend Development Roadmap
 
 ```text
-Java Backend Development
-        │
-        ├── Core Java
-        ├── Spring Boot
-        ├── REST APIs
-        ├── Spring Security
-        ├── JWT
-        ├── MySQL
-        ├── Git & GitHub
-        └── Data Structures & Algorithms
+Java
+ │
+ ├── Core Java
+ ├── OOP
+ ├── Collections
+ ├── Streams
+ └── DSA
+       │
+       ▼
+Spring Boot
+ │
+ ├── REST APIs
+ ├── Spring Data JPA
+ ├── Validation
+ ├── Spring Security
+ └── JWT
+       │
+       ▼
+Database
+ │
+ ├── MySQL
+ ├── PostgreSQL
+ └── Hibernate
+       │
+       ▼
+Development
+ │
+ ├── Git
+ ├── GitHub
+ ├── Maven
+ └── Postman

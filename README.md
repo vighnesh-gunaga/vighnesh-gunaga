@@ -6,35 +6,35 @@
 
 <p>
   <a href="https://github.com/vighnesh-gunaga">
-    <img src="https://img.shields.io/badge/GitHub-vighnesh--gunaga-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vighnesh-suresh-gunaga-925727329/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vighnesh%20Gunaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gunagavighnesh6571@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vighnesh-gunaga&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=vighnesh-gunaga&label=Profile%20Views&style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 BE Information Science & Engineering student at **Canara Engineering College**
+🎓 **BE Information Science & Engineering** student at Canara Engineering College
 
-💻 Passionate about **Java Backend Development**
+☕ Passionate about **Java Backend Development**
 
-☕ Building applications using **Java & Spring Boot**
+🚀 Building backend applications with **Java, Spring Boot and REST APIs**
 
-🧠 Improving my **Data Structures & Algorithms** skills
+🧠 Strengthening my **Data Structures & Algorithms** skills
 
-🔧 Interested in building practical backend systems and REST APIs
+🔐 Interested in **Spring Security, JWT Authentication and secure APIs**
 
 🎯 Goal: Become a strong **Java Backend Developer**
 
@@ -42,25 +42,25 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,idea,postman" />
@@ -68,17 +68,22 @@
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certification
+
+<div align="center">
 
 ### 🥇 NPTEL — Java Programming
 
-**Elite + Gold**
+<img src="https://img.shields.io/badge/NPTEL-Java%20Programming-1F4E79?style=for-the-badge" />
 
-🏅 **90% Score**
+<img src="https://img.shields.io/badge/Score-90%25-FFD700?style=for-the-badge" />
 
-📚 NPTEL Java Programming Certification
+<img src="https://img.shields.io/badge/Elite%20%2B%20Gold-FFD700?style=for-the-badge" />
 
-> Demonstrated strong understanding of Java programming concepts and fundamentals.
+</div>
+
+**Achievement:** Elite + Gold  
+**Score:** 90%
 
 ---
 
@@ -86,9 +91,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vighnesh-gunaga&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vighnesh-gunaga&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
+  <img src="./profile/signal-field-wide-light.svg" alt="GitHub Statistics" width="700">
+</picture>
 
 </div>
 
@@ -98,92 +104,102 @@
 
 <div align="center">
 
-<a href="https://github.com/vighnesh-gunaga">
-
-<img src="https://streak-stats.demolab.com?user=vighnesh-gunaga&theme=tokyonight&hide_border=true" />
-
-</a>
+<img src="./profile/streak.svg" alt="GitHub Streak" width="495">
 
 </div>
 
+<p align="center">
+  <b>Current Streak</b> • <b>Longest Streak</b> • <b>Total Contributions</b>
+</p>
+
 ---
 
-## 📈 GitHub Contributions
+## 📈 Contribution & Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vighnesh-gunaga&theme=tokyo-night&hide_border=true" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg">
+  <img src="./profile/activity-consistency-wide-light.svg" alt="GitHub Contribution Activity" width="700">
+</picture>
 
 </div>
 
 ---
 
-## 💼 What I'm Working On
+## 💻 What I'm Building
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Java Backend
+
+- Core Java
+- OOP
+- Collections
+- Exception Handling
+- Multithreading
+- Java Streams
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Spring Boot
+
+- REST APIs
+- Spring Data JPA
+- Validation
+- Spring Security
+- JWT Authentication
+- MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 DSA
+
+- Arrays
+- Strings
+- HashMap
+- Linked List
+- Stack & Queue
+- Trees
+- Graphs
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Development
+
+- Git
+- GitHub
+- Maven
+- IntelliJ IDEA
+- Postman
+- API Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Current Focus
 
 ```text
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Multithreading
-
-Spring Boot
- ├── REST APIs
- ├── Spring Data JPA
- ├── Validation
- ├── Spring Security
- └── JWT Authentication
-```
-
----
-
-## 📌 Featured Skills
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-
-<img src="https://img.shields.io/badge/REST%20API-Development-005571?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/vighnesh-gunaga">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/vighnesh-suresh-gunaga-925727329/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:gunagavighnesh6571@gmail.com">
-<img src="https://img.shields.io/badge/Email-gunagavighnesh6571%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="tel:+91XXXXXXXXXX">
-<img src="https://img.shields.io/badge/Phone-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ☕ "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my profile!
-
-</div>
+Java Backend Development
+        │
+        ├── Core Java
+        ├── Spring Boot
+        ├── REST APIs
+        ├── Spring Security
+        ├── JWT
+        ├── MySQL
+        ├── Git & GitHub
+        └── Data Structures & Algorithms

@@ -94,7 +94,7 @@
 
 💼 **[LinkedIn](https://www.linkedin.com/in/vighnesh-suresh-gunaga-925727329/)**
 
-🐙 **[GitHub]([https://github.com/vighnesh-gunaga](https://github.com/vighnesh-gunaga))**
+🐙 **[GitHub]((https://github.com/vighnesh-gunaga))**
 
 📱 **+91 9353078746**
 

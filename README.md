@@ -85,21 +85,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 📚 Digital Library Management System
-
-Spring Boot application for managing books, users and library operations.
-
-**Tech:** Java • Spring Boot • JPA • MySQL • HTML • CSS • JavaScript
-
-### 👨‍💼 Employee Management System
-
-Employee management application with CRUD operations and attendance management.
-
-**Tech:** Java • Spring Boot • JPA • MySQL • HTML • CSS • JavaScript
-
----
 
 ## 📫 Contact Me
 
@@ -111,7 +96,7 @@ Employee management application with CRUD operations and attendance management.
 
 🐙 **[GitHub](https://github.com/vighnesh)**
 
-📱 **+91 XXXXXXXXXX**
+📱 **+91 9353078746**
 
 </div>
 
